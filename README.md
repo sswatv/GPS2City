@@ -6,6 +6,13 @@ This program was originally made for our storm chasing mobile live streaming ope
 
 This program is not optimized for single lookups. It loads the entire database into memory on program start to enable super fast lookups that easily keep up with a GPS stream. Future versions may optimize functionality further.
 
+- [Setup](#setup)
+  - [Cities Database](#cities-database)
+  - [Database Conversion](#database-conversion)
+  - [Python Libraries](#python-libraries)
+- [Running](#running)
+  - [Pyinstaller](#pyinstaller)
+
 ## Setup
 
 ### Cities Database
